@@ -8,4 +8,4 @@
 
 ## * I study in Netology.
 
-![My foto](\C:\Users\home\Desktop\Denis\Me.jpg)
+![My foto](/C:/Users/home/Desktop/Denis/Me.jpg)
